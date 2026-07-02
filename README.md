@@ -1,1 +1,1 @@
- BÁO CÁO THỰC TẬP - BOSCH C3
+This is used for learning purposes at Bosch_C3
