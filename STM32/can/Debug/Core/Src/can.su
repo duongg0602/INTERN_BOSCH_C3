@@ -1,0 +1,3 @@
+can.c:9:6:CAN_init	64	static
+can.c:64:6:CAN_SendMessage	40	static
+can.c:78:6:CAN_ReceiveMessage	40	static

@@ -1,0 +1,4 @@
+uart.c:9:6:Uart_init	32	static
+uart.c:31:6:Uart_Send_1byte_Data	24	static
+uart.c:42:6:Uart_send_string	24	static
+uart.c:49:6:Uart_receive_1byte	24	static

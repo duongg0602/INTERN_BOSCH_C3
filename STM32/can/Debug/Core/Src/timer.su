@@ -1,0 +1,3 @@
+timer.c:9:6:timer_init	32	static
+timer.c:29:6:TIM1_UP_IRQHandler	16	static
+timer.c:35:6:set_timer	24	static
